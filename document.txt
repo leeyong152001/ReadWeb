@@ -1,0 +1,2 @@
+edge-tts 
+edge-tts --text "Hello, world!" --write-media hello.mp3 --write-subtitles hello.vtt
